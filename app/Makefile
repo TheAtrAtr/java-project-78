@@ -8,7 +8,7 @@ check:
 	./gradlew checkstyleMain
 
 check-test:
-	./gradlew checkstyleTest
+	./gradlew checkstyleMain checkstyleTest
 
 test:
 	./gradlew test
