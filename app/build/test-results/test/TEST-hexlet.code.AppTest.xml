@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hexlet.code.AppTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-06-07T19:33:48" hostname="DESKTOP-3Q5GBII" time="1.908">
+  <properties/>
+  <testcase name="testMap1()" classname="hexlet.code.AppTest" time="1.806"/>
+  <testcase name="testMap2()" classname="hexlet.code.AppTest" time="0.094"/>
+  <testcase name="testNumber()" classname="hexlet.code.AppTest" time="0.002"/>
+  <testcase name="testString()" classname="hexlet.code.AppTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
