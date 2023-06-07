@@ -1,7 +1,17 @@
 package hexlet.code.schemas;
 
+import java.util.ArrayList;
+import java.util.List;
+import java.util.function.Predicate;
+
 public class BaseSchema {
-    boolean isValid(String str){
-        return true;
+    private List<Predicate<Object>> predicates = new ArrayList<>();
+
+    public List<Predicate<Object>> getPredicates() {
+        return predicates;
+    }
+
+    public boolean isValid(Object obj) {
+        return predicates.stream().allMatch(v -> v.test(obj));
     }
 }
