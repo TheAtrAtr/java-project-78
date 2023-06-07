@@ -1,7 +1,7 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/TheAtrAtr/java-project-78/workflows/hexlet-check/badge.svg)](https://github.com/TheAtrAtr/java-project-78/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/d5b4c187004d1c10c673/maintainability)](https://codeclimate.com/github/TheAtrAtr/java-project-78/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/d5b4c187004d1c10c673/test_coverage)](https://codeclimate.com/github/TheAtrAtr/java-project-78/test_coverage)
+#[![Test Coverage](https://api.codeclimate.com/v1/badges/d5b4c187004d1c10c673/test_coverage)](https://codeclimate.com/github/TheAtrAtr/java-project-78/test_coverage)
 
 Этот проект содержит функции для проверки строк, чисел и карт. Проверка карты обеспечивает функциональность проверки структуры.
 
